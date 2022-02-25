@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning NodeJs and Penetration Test
 - 💬 Ask me about cybersecurity and blockchains
 - 📫 How to reach me: edu1702ardo@protonmail.com
-- ⚡ Fun fact: my fullname is Eduardo Araujo Da Silva
+- ⚡ Fullname: **Eduardo Araujo Da Silva**
 
 
 <div align="center">
