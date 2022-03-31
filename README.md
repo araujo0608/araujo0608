@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working with Coffee ☕
-- 🌱 I’m currently learning NodeJs and Penetration Test
+- 🌱 I’m currently learning Python3 and Penetration Test
 - 🪙 I'm a cryptoinvestor 
 - 💬 Ask me about cybersecurity and blockchains
 - 📫 How to reach me: edu1702ardo@protonmail.com
