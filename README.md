@@ -1,12 +1,11 @@
-### Hello! I'm Araujo0608
+### Hello! I'm Eduardo Araujo Da Silva
 
 
 - 🔭 I’m currently working with Coffee ☕
-- 🌱 I’m currently learning Python3 and Penetration Test
+- 🌱 I’m currently learning Python3
 - 🪙 I'm a cryptoinvestor 
-- 💬 Ask me about cybersecurity and blockchains
+- 💬 Ask me about programming and data science
 - 📫 How to reach me: edu1702ardo@protonmail.com
-- ⚡ Fullname: **Eduardo Araujo Da Silva**
 
 
 <div align="center">
