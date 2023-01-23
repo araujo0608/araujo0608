@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working with Coffee ☕
-- 🌱 I’m currently learning Python3
+- 🌱 I’m currently learning JavaScript
 - 🪙 I'm a cryptoinvestor 
 - 💬 Ask me about programming and data science
 - 📫 How to reach me: edu1702ardo@protonmail.com
