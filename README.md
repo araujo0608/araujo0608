@@ -1,10 +1,10 @@
 ### Hello! I'm Eduardo Araujo Da Silva
 
 
-- 🔭 I’m currently working with Coffee ☕
+- 🔭 I’m currently working with IT support 📱
 - 🌱 I’m currently learning JavaScript
-- 🪙 I'm a cryptoinvestor 
-- 💬 Ask me about programming and data science
+- 🪙 I'm an investor and cryptoinvestor 
+- 💬 Ask me about programming and investments
 - 📫 How to reach me: edu1702ardo@protonmail.com
 
 
