@@ -1,4 +1,5 @@
-### Hello! I'm Eduardo Araujo Da Silva
+# Eduardo Araujo Da Silva
+----
 
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me: edu1702ardo@outlook.com
@@ -19,8 +20,4 @@
 <br>  
 <div> 
   <a href="https://www.linkedin.com/in/araujo0608/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://bitcoin.org/en/" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
-  
- ![Snake animation](https://github.com/araujo0608/araujo0608/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
