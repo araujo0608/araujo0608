@@ -1,11 +1,7 @@
 ### Hello! I'm Eduardo Araujo Da Silva
 
-
-- 🔭 I’m currently working with IT support 📱
-- 🌱 I’m currently learning JavaScript
-- 🪙 I'm an investor and cryptoinvestor 
-- 💬 Ask me about programming and investments
-- 📫 How to reach me: edu1702ardo@protonmail.com
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me: edu1702ardo@outlook.com
 
 
 <div align="center">
@@ -15,19 +11,15 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/rust/rust-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="NodeJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 </div>
 <br>  
 <div> 
-  <a href = "mailto:edu1702ardo@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/araujo0608/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://bitcoin.org/en/" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@edu1702ardo" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   
   
   
