@@ -1,5 +1,5 @@
 <h1 align="center"> Eduardo Araujo </h1>
-<p align="center"> Programmer | Investor | Cyber Forencis | 🐧 🐍 🦀 🔍
+<p align="center"> Programmer & Investor  | 🐧 🐍 🦀 
 <p align="center"> 📧 edu1702ardo@outlook.com
 
 <blockquote align="center">
